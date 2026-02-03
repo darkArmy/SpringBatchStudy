@@ -3,3 +3,6 @@
 
 springboot3.5.10
 java25
+
+参考自youtuber【Cameron McKenzie】的【Spring Batch Tutorial for Beginners | Spring Boot | Batch Architecture】:
+https://www.youtube.com/watch?v=jilqHdnoDRM
