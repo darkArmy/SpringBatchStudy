@@ -1,0 +1,12 @@
+USER_INIT: **********, status: active
+LOG_DATA: system-id-****-af**, user-login-success
+TEMP_RECORD: akia-j**f-klds-****-example-key, region: us-east-*
+INFO: This line has no special data, just a regular message.
+CONTACT_UPDATE: my new number is **********, please update.
+INTERNAL_ID: dev-****-bb**, session: expired
+AWS_ACCESS: AKIAIOSFODNN*EXAMPLE, root_user
+ALERT: low-disk-space-***, severity: high
+OBSERVATION: record *****, check back later.
+SECURITY_LEAK: key is wJalrXUtnFEMI/K*MDENG/bPxRfiCYEXAMPLEKEY, status: exposed
+PHONE_RECOVERY: call ********** for support.
+META_INFO: batch-process-****-v*, start_time: **:**

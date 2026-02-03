@@ -1,0 +1,12 @@
+USER_INIT: 9054184017, status: active
+LOG_DATA: system-id-8872-af92, user-login-success
+TEMP_RECORD: akia-j29f-klds-8821-example-key, region: us-east-1
+INFO: This line has no special data, just a regular message.
+CONTACT_UPDATE: my new number is 2125550198, please update.
+INTERNAL_ID: dev-4491-bb20, session: expired
+AWS_ACCESS: AKIAIOSFODNN7EXAMPLE, root_user
+ALERT: low-disk-space-001, severity: high
+OBSERVATION: record 12345, check back later.
+SECURITY_LEAK: key is wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY, status: exposed
+PHONE_RECOVERY: call 8004445555 for support.
+META_INFO: batch-process-2026-v1, start_time: 16:00
